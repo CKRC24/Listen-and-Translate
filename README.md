@@ -57,6 +57,6 @@ This is the Kaggle [Competition Website](https://www.kaggle.com/c/ml2017fallfina
 ## Reference
 
 [1] The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems Ryan Lowe el at.(2016)
-https://arxiv.org/pdf/1506.08909.pdf
+https://arxiv.org/pdf/1506.08909.pdf <br />
 [2] Attention-Based Models for Speech Recognition Jan Chorowski el at.(2015)
 https://arxiv.org/abs/1506.07503
