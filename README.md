@@ -51,11 +51,5 @@ bash <test.csv file path> final.sh
 
 ## Kaggle Competition Website
 
+Our model ranked No.2 on public set and No.3 on private set.
 This is the Kaggle [Competition Website](https://www.kaggle.com/c/ml2017fallfinaltaiwanese/leaderboard).
-
-## Authors
-
-* [Brian Chiang](https://github.com/CKRC24)
-* [Sean Lee](https://github.com/sam961124)
-* [Trista Chang](https://github.com/weifanhaha)
-* [Aura Chen](https://github.com/aurayw)
