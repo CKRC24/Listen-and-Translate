@@ -53,3 +53,10 @@ bash <test.csv file path> final.sh
 
 Our model ranked No.2 on public set and No.3 on private set.
 This is the Kaggle [Competition Website](https://www.kaggle.com/c/ml2017fallfinaltaiwanese/leaderboard).
+
+## Reference
+
+[1] The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems Ryan Lowe el at.(2016)
+https://arxiv.org/pdf/1506.08909.pdf
+[2] Attention-Based Models for Speech Recognition Jan Chorowski el at.(2015)
+https://arxiv.org/abs/1506.07503
